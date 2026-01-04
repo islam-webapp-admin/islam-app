@@ -1,0 +1,10 @@
+# python
+__pycache__/
+*.pyc
+
+# local db
+app.db
+
+# editors
+.idea/
+.vscode/
